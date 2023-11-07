@@ -1,0 +1,4 @@
+[submodule "godot-demo-projects"]
+	path = godot-demo-projects
+	url = https://github.com/godotengine/godot-demo-projects.git
+	branch = master
